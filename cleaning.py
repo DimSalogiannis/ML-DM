@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 from scipy import stats
 from scipy.linalg import svd
 
+#comment
 # loading the dataset
 df = pd.read_csv(r'C:\Users\Dimitris\Desktop\DTU\_Semester 03\Intro to ML\diamonds.csv')
 
